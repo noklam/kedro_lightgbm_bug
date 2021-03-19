@@ -1,0 +1,6 @@
+context_path: lgbm_test.run.ProjectContext
+project_name: "lgbm_test"
+project_version: "0.16.6"
+package_name: "lgbm_test"
+hooks:
+  - lgbm_test.hooks.project_hooks

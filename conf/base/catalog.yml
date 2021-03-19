@@ -1,0 +1,6 @@
+# TRAINED_MODEL:
+#     type: CachedDataSet
+#     copy_mode: assign
+#     dataset:
+#       type: pickle.PickleDataSet
+#       filepath: "data/06_models/model.pkl"
